@@ -1,0 +1,62 @@
+    1  LS
+    2  cd Documents
+    3  mkdir wassila
+    4  touch wassou
+    5  ls
+    6  cd ..
+    7  .. cd
+    8  cd -
+    9  man amkdir
+   10  man mkdir
+   11  ls
+   12  cd wassila
+   13  cd -
+   14  pwd
+   15  cd wassila
+   16  cd wassou
+   17  wassila > RECETTES
+   18  > RECETTES
+   19  L
+   20  ls
+   21  cat RECETTES 
+   22  cat Documents
+   23  cat wassila
+   24  cat waila
+   25  cat wassila
+   26  wc wassila
+   27  ggrep Java
+   28  LS
+   29  grep recettes
+   30  cd USB DISK
+   31  l
+   32  ls
+   33  cd Desktop
+   34  ls
+   35  USB DISK
+   36  L
+   37  ls
+   38  cd Day02
+   39  ls
+   40  cd ex00
+   41  ls
+   42  cd lhitmachine2000.py
+   43  ls
+   44  lolita
+   45  cd ..
+   46  cd ex03
+   47  ls
+   48  cd vim
+   49  vim
+   50  ls
+   51  cd ex0
+   52  Bonjour ! quel est votre prénom ?
+   53  cd Desktop
+   54  cd Day02
+   55  cd ex4
+   56  l
+   57  ls
+   58  cd ex03
+   59  ls
+   60  vim
+   61  cd ..
+   62  history >> command.txt

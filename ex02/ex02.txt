@@ -1,0 +1,1000 @@
+ 1038  cd BUreau
+ 1039  cd Bureau
+ 1040  cd HTML
+ 1041  ls
+ 1042  git
+ 1043  git init
+ 1044  ls
+ 1045  ls -a
+ 1046  git status
+ 1047  ls
+ 1048  git add js
+ 1049  git status
+ 1050  git commit -m "first commit"
+ 1051  git remote
+ 1052  ls
+ 1053  git remote add origin https://github.com/Oceane404/test-git.git
+ 1054  git push origin master
+ 1055  clear
+ 1056  cd..
+ 1057  cd ..
+ 1058  ls
+ 1059  cd tp
+ 1060  cd TP
+ 1061  git
+ 1062  git init
+ 1063  ls -a
+ 1064  git status
+ 1065  git add --all
+ 1066  ls
+ 1067  git commit -m "first commit"
+ 1068  git remote add origin https://github.com/Oceane404/tp-dwm12.git
+ 1069  git push origin master
+ 1070  vagrant ssh
+ 1071  java -jm
+ 1072  java -jm JMerise.jar
+ 1073  java -jmJMerise.jar
+ 1074  cd /Bureau
+ 1075  cd Bureau
+ 1076  java -jmJMerise.jar
+ 1077  java -jar JMerise.jar
+ 1078  ls
+ 1079  cd JMeriseEtudiant/
+ 1080  java -jar JMerise.jar
+ 1081  bg
+ 1082  mysql -uroot -p
+ 1083  synaptic
+ 1084  sudo mysql -u root
+ 1085  sudo apt install mysql-client-core-5.7
+ 1086  sudo apt install mariadb-client-core-10.1
+ 1087  bg
+ 1088  sudo mysql -u root
+ 1089  cd ..
+ 1090  sudo mysql -u root
+ 1091  bg
+ 1092  netstat -tulpm
+ 1093  netstat -tulpn
+ 1094  mysql -p -u root
+ 1095  sudo mysql -u root
+ 1096  cd Bureau
+ 1097  cd JMerise
+ 1098  ls
+ 1099  cd JMeriseEtudiant/
+ 1100  java -jar JMerise.jar 
+ 1101  cd Bureau
+ 1102  ls
+ 1103  java -jar JMeriseEtudiant/
+ 1104  jav -jar JMeriseEtudiant/
+ 1105  java -jar JMeriseEtudiant/
+ 1106  cd JMeriseEtudiant/
+ 1107  java -jar JMeriseEtudiant/
+ 1108  cd ..
+ 1109  cd JMeriseEtudiant/; java -jar
+ 1110  java -jar JMerise.jar 
+ 1111  cd Bureau
+ 1112  ls
+ 1113  cd JMeriseEtudiant/
+ 1114  java -javaagent
+ 1115  java -jar JMerise.jar 
+ 1116  cd Bureau
+ 1117  java -jar JMerise.jar 
+ 1118  cd JMeriseEtudiant/
+ 1119  java -jar JMerise.jar 
+ 1120  netstat
+ 1121  java -jar JMerise.jar 
+ 1122  cd
+ 1123  cd Téléchargements/
+ 1124  tar -zxvf apache-tomcat-9.0.27.tar.gz 
+ 1125  bin
+ 1126  cd bin
+ 1127  cd apache-tomcat-9.0.27/bin
+ 1128  ./startup.sh 
+ 1129  localhost
+ 1130  localhost.8080
+ 1131  cd ..
+ 1132  cd webapps/
+ 1133  cp ../../Apprenants.war .
+ 1134  cp ../../Ap
+ 1135  cp ../../Apprenants.war .
+ 1136  mysql > show tables
+ 1137  mysql > exit
+ 1138  mysql> exit
+ 1139  mysql -p -uroot
+ 1140  cd Bureau/JMerise
+ 1141  cd Bureau/JMeriseEtudiant/
+ 1142  java -jar JMerise.jar 
+ 1143  cd Documents/tp
+ 1144  git init
+ 1145  git commit-m "tp_Ajax"
+ 1146  cd Documents/tp
+ 1147  git commit -m "tp_Ajax"
+ 1148  git remote add origin https://github.com/N-akademy/revision-two.git
+ 1149  git push -u origin master
+ 1150  git commit-m "tp_Ajax"
+ 1151  git commit -m "tp_Ajax"
+ 1152  git remote add origin https://github.com/N-akademy/revision-two.git
+ 1153  git push -u origin master
+ 1154  cd Documents/tp
+ 1155  @media only screen and (max-width: 300px) {
+ 1156  git add -all
+ 1157  git add --all
+ 1158  git commit -m "tp_Ajax"
+ 1159  git push -u origin master
+ 1160  sudo nano ~/.ssh/known_hosts 
+ 1161  cd Document
+ 1162  cd Documents/
+ 1163  mkdir new
+ 1164  cd new
+ 1165  vagrant init
+ 1166  nano Vagrantfile
+ 1167  vagrant up
+ 1168  nano Vagrantfile
+ 1169  vagrant up
+ 1170  vagrant ssh
+ 1171  vagrant ssh -config
+ 1172  vagrant ssh-config
+ 1173  vagrant ssh
+ 1174  cd Bureau
+ 1175  mkdir -p vm/data
+ 1176  cd vm
+ 1177  vagrant init
+ 1178  nano Vagrantfile 
+ 1179  vagrant up
+ 1180  sudo nano ~/.ssh/known_hosts
+ 1181  cd Bureau
+ 1182  cd VM
+ 1183  vagrant up
+ 1184  vagrant ssh
+ 1185  cd Bureau
+ 1186  ./vm.sh
+ 1187  chmod 777 vm.sh
+ 1188  ./vm.sh
+ 1189  ls
+ 1190  cd Bureau
+ 1191  ls
+ 1192  cd vilain\ petit\ canard/
+ 1193  fdisk -l file.bin
+ 1194  vol
+ 1195  cd ..
+ 1196  apt-get virtual
+ 1197  apt-get virtualbox
+ 1198  apt-get VirtualBox
+ 1199  cd ccn2
+ 1200  cd Bureau
+ 1201  cd ccn2
+ 1202  cd CCN2
+ 1203  ls
+ 1204  fdisk -l ch2.dmp
+ 1205  python vol.py -f /home/Bureau/CCN2/ch2
+ 1206  apt- get volatility
+ 1207  apt-get volatility
+ 1208  apt-get foremost
+ 1209  apt-get install foremost
+ 1210  sudo nano ~/.ssh/known_hosts
+ 1211  ls
+ 1212  cd Bureau
+ 1213  ls
+ 1214  cd portfolio(in-progres)
+ 1215  cd  'portfolio(in-progres')
+ 1216  cd  'portfolio(in-progres)'
+ 1217  ls
+ 1218  git init
+ 1219  git add --all
+ 1220  git commit -m "firstcommit"
+ 1221  git config user.email"l.grubski@it-students.fr"
+ 1222  git config user.name"Midnightfen"
+ 1223  git remote
+ 1224  git remote add origin https://github.com/Midnightfen/portfolio-in-progress-.git
+ 1225  git push -u origin master
+ 1226  ls
+ 1227  cd Bureau
+ 1228  ls
+ 1229  cd laravel
+ 1230  mkdir data
+ 1231  ls
+ 1232  vagrant init
+ 1233  ls
+ 1234  nano Vagrantfile
+ 1235  vagrant up
+ 1236  vagrant ssh
+ 1237  nano Vagrantfile
+ 1238  vagrant reload
+ 1239  vagrant up
+ 1240  vagrant ssh
+ 1241  ls
+ 1242  cd Bureau
+ 1243  ls
+ 1244  cd laravelApi
+ 1245  ls
+ 1246  vagrant init
+ 1247  nano Vagrantfile
+ 1248  vagrant up
+ 1249  nano Vagrantfile 
+ 1250  vagrant up
+ 1251  vagrant ssh
+ 1252  vagrnt reload
+ 1253  vagrant reload
+ 1254  vagrant ssh
+ 1255  sudo nano ~/.ssh/known_hosts
+ 1256  vagrant ssh
+ 1257  vagrant reload
+ 1258  vagrant ssh
+ 1259  ls
+ 1260  cd data
+ 1261  ls
+ 1262  cd laravel_api
+ 1263  ls
+ 1264  git init
+ 1265  git add --all
+ 1266  git status
+ 1267  git commit -m “first commit"
+ 1268  git commit -m "first commit"
+ 1269  git config user.email "votre mail"
+ 1270  git config user.email "l.grubski@it-students.fr"
+ 1271  git config user.name  "Midnightfen"
+ 1272  git remote add origin https://github.com/Midnightfen/laravelApi.git
+ 1273  git push -u origin master
+ 1274  ifconfig
+ 1275  ls
+ 1276  cd Bureau
+ 1277  ls
+ 1278  cd nodeJS
+ 1279  mkdir data
+ 1280  ls
+ 1281  vagrantinit
+ 1282  vagrant init
+ 1283  nano Vagrantfile
+ 1284  vagrant up
+ 1285  vagrant ssh
+ 1286  vagrant ssh --config
+ 1287  vagrant ssh
+ 1288  vagrant ssh-config
+ 1289  vagrant ssh
+ 1290  ls
+ 1291  cd Bureau
+ 1292  ls
+ 1293  cd nodeJS
+ 1294  ls
+ 1295  nano Vagrantfile
+ 1296  vagrant ssh
+ 1297  ls
+ 1298  vagrant up
+ 1299  ls
+ 1300  clear
+ 1301  ls
+ 1302  cd Bureau
+ 1303  ls
+ 1304  cd nodeJS
+ 1305  ls
+ 1306  vagrnt up
+ 1307  vagrant up
+ 1308  vagrant ssh
+ 1309  cd Bureau
+ 1310  ls
+ 1311  cd nodeJS
+ 1312  ls
+ 1313  vagrant up
+ 1314  vagrant ssh
+ 1315  cat Vagrantfile 
+ 1316  cd Bureau
+ 1317  ls
+ 1318  cd nodeJS
+ 1319  ls
+ 1320  vagrant up
+ 1321  vagrant ssh
+ 1322  ls
+ 1323  exit
+ 1324  ls
+ 1325  LS
+ 1326  ls
+ 1327  help
+ 1328  ls
+ 1329  cd images
+ 1330  cd Images
+ 1331  ls
+ 1332  cd ..
+ 1333  ls
+ 1334  LS
+ 1335  ls
+ 1336  cd Documents
+ 1337  ls
+ 1338  cd simons
+ 1339  cd ..
+ 1340  mkdir Real
+ 1341  ls
+ 1342  cd Real
+ 1343  touch document.txt
+ 1344  ls
+ 1345  cat document.txt
+ 1346  cd ..
+ 1347  cd Untitled-1.html
+ 1348  cat Untitled-1.html
+ 1349  git clone https://github.com/EpitaphStudLearning/Day00.git
+ 1350  ls
+ 1351  git add Untitled-1.html
+ 1352  git commit -m "test"
+ 1353  git push 
+ 1354  clear
+ 1355  ls
+ 1356  exit
+ 1357  ls
+ 1358  MKDIR REAL
+ 1359  cd documents
+ 1360  ls
+ 1361  cd Documents
+ 1362  mkdir Real StarWars StarTrek
+ 1363  ls
+ 1364  git clone https://github.com/Wassila211/Day00.git
+ 1365  ls
+ 1366  day00
+ 1367  cd day00
+ 1368  cd Day00
+ 1369  ls
+ 1370  cd ex00
+ 1371  ls
+ 1372  cd Planets/
+ 1373  ls
+ 1374  git status
+ 1375  git log
+ 1376  ls
+ 1377  mkdir Real StarWars StarTrek
+ 1378  cd Real
+ 1379  Telluriques Gazeuses
+ 1380  mkdir Telluriques Gazeuses
+ 1381  cd
+ 1382  ls
+ 1383  cd ..
+ 1384  cd Planets
+ 1385  ls
+ 1386  cd apprenant/
+ 1387  ls
+ 1388  cd Day00
+ 1389  ls
+ 1390  cd ex00
+ 1391  ls
+ 1392  cd Planets
+ 1393  touch documents.txt
+ 1394  ls
+ 1395  history > commandes.txt
+ 1396  ls
+ 1397  mv Jupiter.jpg mars.jpeg Neptune.jpg Terre.png Venus.jpg Lune.jpg Mercure.jpg Pluton.jpg saturn.png Uranus.jpg Real
+ 1398  ls
+ 1399  mkdir Real StarWars StarTrek
+ 1400  cd Real
+ 1401  mv Jupiter.jpg mars.jpeg Neptune.jpg Terre.png Venus.jpg Lune.jpg Mercure.jpg Pluton.jpg saturn.png Uranus.jpg Real
+ 1402  mkdir Telluriques Gazeuses 
+ 1403  cd ..
+ 1404  mv Jupiter.jpg mars.jpeg Neptune.jpg Terre.png Venus.jpg Lune.jpg Mercure.jpg Pluton.jpg saturn.png Uranus.jpg Real
+ 1405  mv Jupiter.jpg mars.jpeg Neptune.jpg Terre.jpg Venus.jpg Lune.jpg Mercure.jpg Pluton.jpg saturn.png Uranus.jpg Real
+ 1406  cd Real
+ 1407  Venus.jpg Terre.jpg mars.jpeg Mercure.jpg Telluriques
+ 1408  mv Venus.jpg Telluriques/
+ 1409  mv Terre.jpg mars.hpeg Mercure.jpg Telluriques
+ 1410  mv mars.jpeg
+ 1411  mv mars.jpeg Telluriques
+ 1412  Jupiter.jpg saturn.png Uranus.jpg Neptune.jpg Gazeuses
+ 1413  mv Jupiter.jpg Gazeuses
+ 1414  mv saturn.png Uranus.jpg Neptune.jpg Gazeuses 
+ 1415  ls
+ 1416  cv Lune.jpg Telluriques
+ 1417  mv Lune.jpg Telluriques
+ 1418  ls
+ 1419  cd ..
+ 1420  history >> commandes.txt 
+ 1421  cd Real
+ 1422  Coruscant.jpg Naboo.png Tatooine.jpg Mustafar.png Risa.jpg Taris.png StarWars
+ 1423  mv Coruscant.jpg Naboo.png Tatooine.jpg Mustafar.png Risa.jpg Taris.png StarWars
+ 1424  ls
+ 1425  cm StarWars
+ 1426  cm Planets
+ 1427  cd Planets
+ 1428  cd ..
+ 1429  mv Coruscant.jpg Naboo.png Tatooine.jpg Mustafar.png Risa.jpg Taris.png StarWars
+ 1430  ..cd
+ 1431  mv Coruscant.jpg Naboo.png Tatooine.jpg Mustafar.png  Taris.png StarWars
+ 1432  mv Risa.jpg StarTrek/
+ 1433  mv Risa.jpg StarTrek ..
+ 1434  mv Risa.jpg StarTrek 
+ 1435  cd StarTrek
+ 1436  cm StarTrek
+ 1437  cd StarTrek
+ 1438  mv StarTrek Planets
+ 1439  cd StarWars
+ 1440  mv Risa.jpg ..
+ 1441  mv Risa.jpg StarTrek
+ 1442  mv StarTrek Planets
+ 1443  ls
+ 1444  ..cd
+ 1445  cd ..Real
+ 1446  cd Real
+ 1447  cd..
+ 1448  cd ..
+ 1449  ls
+ 1450  mv StarTrek Planets
+ 1451  cd 
+ 1452  cd Day00/
+ 1453  cd Day00
+ 1454  cd ex00
+ 1455  cd Planets/
+ 1456  mv Andorian.jpg janusVI.jpg Risa.jpg Vulcan.jpg Star
+ 1457  mv Andorian.jpg janusVI.jpg Risa.jpg Vulcan.jpg StarTrek
+ 1458  mv JanusVI.jpg StarTrek
+ 1459  mv Andoria.jpg StarTrek
+ 1460  history >> commandes.txt
+ 1461  cd day00
+ 1462  ls
+ 1463  cd exo01
+ 1464  cd Day00
+ 1465  ls
+ 1466  ..cd day00
+ 1467  cd apprenant
+ 1468  grep 'Toulouse|Biarritz' alumni.csv | grep JavaScript | wc -l > javascript_biarritz_toulouse.csv
+ 1469  la commande finale pour regrouper ceux que ont fait du JavaScript
+ 1470  grep 'David' alumni.csv | wc -l > david.csv
+ 1471  la commande finale pour ceux que ont le nom ou prenom David
+ 1472  cd ..
+ 1473  c
+ 1474  cd ex01
+ 1475  ls
+ 1476  mkdi php_france_2019.csv
+ 1477  grep'Toulousegrep 'Toulouse|Biarritz' alumni.csv | grep JavaScript | wc -l > javascript_biarritz_toulouse.csv
+ 1478  la commande finale pour regrouper ceux que ont fait du JavaScript
+ 1479  grep 'David' alumni.csv | wc -l > david.csv
+ 1480  la commande finale pour ceux que ont le nom ou prenom David
+ 1481  grep France alumni.csv | grep 2019 | grep PHP | wc -l > php_france_2019.csvgrep 'Toulouse|Biarritz' alumni.csv | grep JavaScript | wc -l > javascript_biarritz_toulouse.csv
+ 1482  la commande finale pour regrouper ceux que ont fait du JavaScript
+ 1483  grep 'David' alumni.csv | wc -l > david.csv
+ 1484  la commande finale pour ceux que ont le nom ou prenom David
+ 1485  q
+ 1486  mkdi php_france_2019.csv
+ 1487  grep'Toulousegrep 'Toulouse|Biarritz' alumni.csv | grep JavaScript | wc -l > javascript_biarritz_toulouse.csv
+ 1488  la commande finale pour regrouper ceux que ont fait du JavaScript
+ 1489  grep 'David' alumni.csv | wc -l > david.csv
+ 1490  la commande finale pour ceux que ont le nom ou prenom David
+ 1491  grep France alumni.csv | grep 2019 | grep PHP | wc -l > php_france_2019.csvgrep 'Toulouse|Biarritz' alumni.csv | grep JavaScript | wc -l > javascript_biarritz_toulouse.csv
+ 1492  la commande finale pour regrouper ceux que ont fait du JavaScript
+ 1493  grep 'David' alumni.csv | wc -l > david.csv
+ 1494  la commande finale pour ceux que ont le nom ou prenom David
+ 1495  q
+ 1496  mkdi php_france_2019.csv
+ 1497  grep 'Toulouse|Biarritz' alumni.csv| grep JavaScript| wc-l|>javascript_biarritz_toulouse.csv
+ 1498  grep 'Toulouse|Biarritz' alumni.csv| grep JavaScript| wc-l | > javascript_biarritz_toulouse.csv
+ 1499  grep 'Toulouse|Biarritz' alumni.csv | grep JavaScript | wc-l | > javascript_biarritz_toulouse.csv
+ 1500  grep 'Toulouse|Biarritz' alumni.csv | grep JavaScript | wc -l | > javascript_biarritz_toulouse.csv
+ 1501  grep php france 2019 alumni.csv
+ 1502  grep JavaScript alumni.csv
+ 1503  apprenant@apprenant-desktop:~/Day00/ex01$ grep php france 2019 alumni.csv
+ 1504  grep JavaScript alumni.csv
+ 1505  cat alumni.csv
+ 1506  grep PHP alumni.csv
+ 1507  grep PHP | grep France alumni.csv
+ 1508  grep France | grep PHP alumni.csv
+ 1509  grep PHP alumni.csv
+ 1510  grep PHP alumni.csv
+ 1511  grep PHP alumni.csv > PHP.csv
+ 1512  cat PHP.csv 
+ 1513  grep France PHP.csv
+ 1514  grep France PHP.csv > PHP.csv
+ 1515  grep France PHP.csv > PHP2.csv
+ 1516  cat PHP2.csv
+ 1517  cat PHP.csv
+ 1518  grep PHP almuni.csv
+ 1519  ls
+ 1520  v 
+ 1521  ls
+ 1522  grep david alumni.csv
+ 1523  cd
+ 1524  cd Day00
+ 1525  MKADIR ex02
+ 1526  MKDIR ex02
+ 1527  mkdir ex02
+ 1528  ex02
+ 1529  cd ex02
+ 1530  cat > bonjour.sh
+ 1531  echo "salut, comment vas-tu?'
+ 1532  ./bonjour.sh
+ 1533  chmod+x bonjour.sh
+ 1534  chmod +x bonjour.sh
+ 1535  history > commandes.txt
+ 1536  cd..
+ 1537  cd
+ 1538  day00
+ 1539  cd day00
+ 1540  ls
+ 1541  ..cd
+ 1542  cd
+ 1543  cd..
+ 1544  clean
+ 1545  Clean
+ 1546  clear
+ 1547  ls
+ 1548  day00
+ 1549  cd day00
+ 1550  clear
+ 1551  ls
+ 1552  cd documents
+ 1553  clear
+ 1554  ls
+ 1555  day00
+ 1556  clear
+ 1557  ls
+ 1558  cd 
+ 1559  cd
+ 1560  Day00
+ 1561  cd Day00
+ 1562  ls
+ 1563  ex01
+ 1564  cd ex01
+ 1565  ls
+ 1566  cd Day00
+ 1567  cd ex001
+ 1568  ex01
+ 1569  clear
+ 1570  ex01
+ 1571  cd ex01
+ 1572  ls
+ 1573  cd Day00
+ 1574  cd .. 
+ 1575  Day00
+ 1576  cd Day00
+ 1577  grep PHP alumni.cvs |
+ 1578  grep PHP alumni.cvs | grep france | grep 2019 | wc -l > PHP_france.cvs
+ 1579  ls
+ 1580  cd ex01
+ 1581  ls
+ 1582  grep PHP alumni.cvs | grep france | grep 2019 | wc -l > PHP_france.cvs
+ 1583  grep PHP alumni.csv | grep france | grep 2019 | wc -l > PHP_france.csv
+ 1584  grep france alumni.csv | grep PHP | grep 2019 | wc -l > PHP_france.csv
+ 1585  git clone https://github.com/Wassila211/Day00.git
+ 1586  grep france alumni.csv | grep PHP | grep 2019 | wc -l > PHP_france.csv
+ 1587  grep France alumni.csv | grep PHP | grep 2019 | wc -l > PHP_france.csv
+ 1588  ls
+ 1589  grep 'Toulouse|Biarritz' alumni.csv | grep JavaScript | wc -l > javascript_biarritz_toulouse.csv
+ 1590  grep 'Toulouse | Biarritz' alumni.csv | grep JavaScript alumni.csv | wc -l > javascript_biarritz_toulouse.csv 
+ 1591  grep Toulouse | grep  Biarritz alumni.csv | grep JavaScript | wc -l > javascript_biarritz_toulouse.csv
+ 1592  grep Toulouse alumni.csv | grep JavaScript > javascript_toulouse.csv
+ 1593  cat javascript_toulouse.csv 
+ 1594  grep Biarritz alumni.csv | grep JavaScript > javascript_Biarritz.csv
+ 1595  cat javascript_Biarritz.csv 
+ 1596  cat javascript_toulouse.csv | cat javascript_Biarritz.csv > javascript_biarritz_toulouse.csv 
+ 1597  cat javascript_biarritz_toulouse.csv 
+ 1598  clear
+ 1599  cat alumni.csv
+ 1600  cat alumni.csv | grep JavaScript > javascript.csv
+ 1601  cat javascript.csv 
+ 1602  cat javascript.csv | grep Toulouse > javascript_toulouse.csv
+ 1603  cat javascript_toulouse.csv 
+ 1604  cat javascript.csv | grep Biarritz > javascript_biarritz.csv
+ 1605  cat javascript_biarritz.csv
+ 1606  cat javascript_toulouse.csv >> javascript_biarritz.csv
+ 1607  cat javascript_biarritz.csv 
+ 1608  mv javascript_biarritz.csv javascript_biarritz_toulouse.csv 
+ 1609  ls
+ 1610  cat javascript_biarritz_toulouse.csv 
+ 1611  cat david.csv
+ 1612  ls
+ 1613  cd Day00
+ 1614  Day00
+ 1615  clear
+ 1616  ls
+ 1617  cd 
+ 1618  Day00
+ 1619  cd Day00
+ 1620  mkadir exo02
+ 1621  mkdir exo02$
+ 1622  mkdir exo02
+ 1623  exo02
+ 1624  ls
+ 1625  cd exo02
+ 1626  vim bonjour.sh
+ 1627  sudo apt install vim
+ 1628  vim bonjour.sh
+ 1629  ./bonjour
+ 1630  ./bonjour.sh
+ 1631  chmod +x bonjour.sh
+ 1632  ./bonjour.sh
+ 1633  history >> commands.txt
+ 1634  history >> ex2.txt
+ 1635  ls
+ 1636  cd Day00
+ 1637  Day00
+ 1638  .. cd Day00
+ 1639  cd
+ 1640  Day00
+ 1641  cd Day00
+ 1642  git add . 
+ 1643  git add Day00
+ 1644  git add ex00
+ 1645  git status
+ 1646  touch toto.txt
+ 1647  git status
+ 1648  rm toto.txt 
+ 1649  git status
+ 1650  git commit -m "ajout ex00"
+ 1651  git push 
+ 1652  https://github.com/Wassila211/Day00
+ 1653  git push 
+ 1654  git push origin
+ 1655  cd ..
+ 1656  mkdir git
+ 1657  cd git
+ 1658  git clone https://github.com/Wassila211/Day00.git
+ 1659  mkdir ex02
+ 1660  cd ex02
+ 1661  touch toto.txt
+ 1662  git status
+ 1663  cd..
+ 1664  cd ..
+ 1665  rm -rf git
+ 1666  ls
+ 1667  cd Documents/
+ 1668  ls
+ 1669  git clone https://github.com/Wassila211/Day00.git
+ 1670  cd Day00
+ 1671  ls
+ 1672  touch toto.txt
+ 1673  git status
+ 1674  git add .
+ 1675  git commit
+ 1676  git commit -m "ajout toto"
+ 1677  git push
+ 1678  cd ~
+ 1679  ls -lra
+ 1680  vim .bashrc
+ 1681  clear
+ 1682  mkdir Day01
+ 1683  ls
+ 1684  cd Day01
+ 1685  mkdir ex00
+ 1686  ls
+ 1687  clone https://github.com/Wassila211/Day01.git
+ 1688  git clone https://github.com/Wassila211/Day01.git
+ 1689  cat deposition_Joe_Rugiani.txt
+ 1690  car deposition_joe_Rugiani.txt
+ 1691  cat deposition_joe_Rugiani.txt
+ 1692  https://github.com/Wassila211/Day01.git
+ 1693  cd ex00
+ 1694  ls
+ 1695  Day01
+ 1696  git clone https://github.com/Wassila211/Day01.git
+ 1697  ls
+ 1698  cd..
+ 1699  cd ..
+ 1700  git clone https://github.com/Wassila211/Day01.git
+ 1701  Day001
+ 1702  cd Day01
+ 1703  cat deposition_Joe_Rugiani.txt
+ 1704  cd ex03
+ 1705  cat instructions
+ 1706  Murder_in_terminal_city cat instructions
+ 1707  cd  Murder_in_terminal_city
+ 1708  cat instructions
+ 1709  cd mystery
+ 1710  cat mystery
+ 1711  ls
+ 1712  grep CLUE 
+ 1713  ls
+ 1714  grep CLUE interviews
+ 1715  grep clues crimescene
+ 1716  ls
+ 1717  awk -F, 'FNR==NR {lines[$2]; next} $2 in lines {print $1}' file1 file2
+ 1718  ls
+ 1719  grep clues
+ 1720  grep clues crimescene
+ 1721  ls
+ 1722  sort liste1 > liste1.tmp
+ 1723  cd membership
+ 1724  cd 
+ 1725  awk -F, 'FNR==NR {lines[$2]; next} $2 in lines {print $1}' file1 file2
+ 1726  cd Day01
+ 1727  cd 
+ 1728  cd Day01
+ 1729  cd exo03
+ 1730  cd..exo03
+ 1731  cd exo03
+ 1732  exo03
+ 1733  cd ex03
+ 1734  cd Murder_in_terminal_city
+ 1735  cd mystery
+ 1736  cd memberships
+ 1737  grep -f f1 f2
+ 1738  grep -f AAA Delta_Skymiles
+ 1739  grep -f AAA Delta_SkyMiles
+ 1740  grep -8 Museum_of_Bash_History Terminal_City_Library 
+ 1741  grep -f Museum_of_Bash_History Terminal_City_Library 
+ 1742  Lucy Miller
+ 1743  Ferenc Aydarski
+ 1744  Lucy Miller
+ 1745  Ferenc Aydarski
+ 1746  grep -f Museum_of_Bash_History Terminal_City_Library 
+ 1747  ls
+ 1748  cd Day01
+ 1749  ls
+ 1750  cd Murder_in_terminal_city/
+ 1751  history
+ 1752  clear
+ 1753  ls
+ 1754  cd mystery/
+ 1755  ls
+ 1756  history
+ 1757  touch preuve1
+ 1758  touche preuve1.txt
+ 1759  touch preuve1.txt
+ 1760  ls
+ 1761  grep -f Museum_of_Bash_History Terminal_City_Library > preuve1.txt
+ 1762  ls
+ 1763  cd memberships
+ 1764  grep -f Museum_of_Bash_History Terminal_City_Library > preuve1.txt
+ 1765  ls
+ 1766  cd preuve1.txt
+ 1767  grep -f interviews memberships >preuve.txt
+ 1768  .. cd
+ 1769  cd Murder_in_terminal
+ 1770  clear
+ 1771  grep -f AAA Museum_of_Bash_History 
+ 1772  grep -f AAA Museum_of_Bash_History > Preuve1.txt
+ 1773  ls
+ 1774  grep -f Delta_SkyMiles Terminal_City_Library 
+ 1775  grep -f Delta_SkyMiles Terminal_City_Library > Preuve.txt
+ 1776  grep -f Preuve1 Preuve2
+ 1777  grep -f Preuve1 Preuve2 > Preuve3
+ 1778  grep -f AAA Museum_of_Bash_History > Preuve1.txt
+ 1779  grep -f Preuve1 Preuve2 > Preuve3
+ 1780  grep -f preuve1 Preuve2 > Preuve3
+ 1781  grep preuve1 > Preuve 2
+ 1782  grep preuve1 > Preuve2
+ 1783  sl
+ 1784  ls
+ 1785  history >> demain.txt
+ 1786  ls
+ 1787  cd Day01
+ 1788  cd ex03
+ 1789  cd Murder_in_terminal_city/
+ 1790  ls
+ 1791  mystery
+ 1792  cd mystery
+ 1793  grep CLUE crimescene
+ 1794  grep -f AAA Delta_Skymiles
+ 1795  grep -f AAA Delta_skyMiles
+ 1796  cd memberships
+ 1797  grep -f AAA Detla_SkyMiles
+ 1798  grep -f AAA Delta_SkyMiles
+ 1799  preuve1 > Murder_in_terminal_city
+ 1800  preuve1 > Murder_in_terminal_cityls
+ 1801  cd mystery
+ 1802  cd .. mystery
+ 1803  cd ..
+ 1804  cd.. 
+ 1805  preuve1 > Murder_in_terminal_cityls
+ 1806  cd ..
+ 1807  preuve1 > Murder_in_terminal_city
+ 1808  grep -f AAA Detla_SkyMiles preuve1 > Murder_in_terminal_city 
+ 1809  grep -f AAA Detla_SkyMiles > preuve1 > Murder_in_terminal_city 
+ 1810  ls
+ 1811  cd mystery
+ 1812  cd memberships
+ 1813  grep -f AAA Detla_SkyMiles  preuve1 > Murder_in_terminal_city 
+ 1814  grep -f AAA Delta_SkyMiles  preuve1 > Murder_in_terminal_city 
+ 1815  mv Murder_in_terminal_city Preuve1
+ 1816  grep -f Museum_of_Bash_History Terminal_City_Library 
+ 1817  grep -f Museum_of_Bash_History Terminal_City_Library > Preuve2
+ 1818  grep -f Preuve1 Preuve2 > Preuve3
+ 1819  grep -f Preuve1 Preuve2 
+ 1820  ls
+ 1821  comm -1 -2 Preuve1 Preuve2 > Preuve3 
+ 1822  cat Preuve1
+ 1823  cat Delta_SkyMiles 
+ 1824  grep AAA Delta_SkyMiles 
+ 1825  grep -f AAA Delta_SkyMiles 
+ 1826  grep -f AAA Delta_SkyMiles > preuve1
+ 1827  grep -f preuve1 Preuve2 > preuve3
+ 1828  grep -f Museum_of_Bash_History Terminal_City_Library 
+ 1829  cd mystery
+ 1830  cd..mystery
+ 1831  cd Murder_in_terminal_city
+ 1832  cd  mystery
+ 1833  .. cd mystery
+ 1834  cd .. mystery
+ 1835  ls
+ 1836  cd mystery
+ 1837  cd
+ 1838  cd Day01
+ 1839  cd exo03
+ 1840  Day01
+ 1841  cd Day01
+ 1842  cd ex03
+ 1843  cd Murder_in_terminal_city/
+ 1844  cd mystery
+ 1845  grep people preuve3
+ 1846  preuve3 people
+ 1847  grep preuve3 people
+ 1848  grep preuve3 people > PPP
+ 1849  cd interviews
+ 1850  grep Annabel
+ 1851  .. cd mystery
+ 1852  cd mystery
+ 1853  cd-
+ 1854  cd -
+ 1855  cd people
+ 1856  grep Annabel people
+ 1857  grep Annabel people > preuve4
+ 1858  /Day01/ex03/Murder_in_terminal_city/mystery$ grep Annabel people
+ 1859  cd streets
+ 1860  grep Hart Place, line 40
+ 1861  cat Hart Place | grep INTER 
+ 1862  cat Hart_Place | grep INTER 
+ 1863  cat Bucki,gham_Place | grep INTER 
+ 1864  cat Buckingham_Place | grep INTER 
+ 1865  cat Hart_Place | grep INTER > Adresse1
+ 1866  cat Buckingham_Place | grep INTER > Adresse2
+ 1867  cd -
+ 1868  cd interviews
+ 1869  grep interview-47246024
+ 1870  cat interview-47246024
+ 1871  cat interview-699607
+ 1872  cd -
+ 1873  grep Honda Blue
+ 1874  grep L337
+ 1875  grep L337 vehicles
+ 1876  cat vehicles | grep -a5 L337 > matricule 
+ 1877  cat matricule | -a5 Honda
+ 1878  cat matricule | grep -a5 Honda
+ 1879  cat matricule | grep -a5 Honda > suspects
+ 1880  cd Murder_in_terminal_city
+ 1881  cd -
+ 1882  cd
+ 1883  Day01
+ 1884  cd Day01
+ 1885  cd ex03
+ 1886  history >> coupable.txt
+ 1887  ls
+ 1888  cd document
+ 1889  cd Documents
+ 1890  git clone https://www.notion.so/Wejdene-Day00-92afed7cdefc447b95983ed6e1812837#faf72643a16d4176bb9a9de6bff89b6b
+ 1891  cd Day01
+ 1892  ex00
+ 1893  cd ex00
+ 1894  cat deposition_Joe_Rugiani.txt 
+ 1895  nano deposition_Joe_Rugiani.txt 
+ 1896  ls
+ 1897  cd ex01
+ 1898  cd
+ 1899  cd Day01
+ 1900  cd ex01
+ 1901  cd -
+ 1902  Day01
+ 1903  cd Day01
+ 1904  cd ex01
+ 1905  ls
+ 1906  mkdir ex01
+ 1907  ls
+ 1908  cd ex01
+ 1909  cat deposition_Joe_Rugiani.txt 
+ 1910  nano deposition_Joe_Rugiani.txt 
+ 1911  history >> result.txt
+ 1912  cd
+ 1913  cd Day01
+ 1914  cd ex00
+ 1915  history >> magic.txt
+ 1916  cd
+ 1917  Day01
+ 1918  cd Day01
+ 1919  cd ex01
+ 1920  history >> magic.txt
+ 1921  cd -
+ 1922  cd ex02
+ 1923  cat tcpd_department.csv 
+ 1924  grep Cameron_Preston > tcpd_officers.txt.
+ 1925  grep Officer tcpd_department.csv  > tcpd_officers.txt.
+ 1926  grep 8  tcpd_department.csv  > tcpd_expert_officer.txt.
+ 1927  history >> final.txt
+ 1928  ls
+ 1929  Documents 
+ 1930  cd Documents
+ 1931  git clone https://www.notion.so/Wejdene-Day00-92afed7cdefc447b95983ed6e1812837#faf72643a16d4176bb9a9de6bff89b6b
+ 1932  git clone https://github.com/wejdene-it/Day00.git
+ 1933  cd Day00
+ 1934  ./bonjour.sh
+ 1935  cd
+ 1936  Day00
+ 1937  cd Day00
+ 1938  cd ex03
+ 1939  ls
+ 1940  cd
+ 1941  cd  Documents
+ 1942  cd  Day00
+ 1943  cd ex03
+ 1944  ls
+ 1945  ls -rtFM
+ 1946  ls -rtFm
+ 1947  cd
+ 1948  cd Day00
+ 1949  mkdir ex03
+ 1950  cd ex03
+ 1951  touch midLS
+ 1952  midLS
+ 1953  LS
+ 1954  ls
+ 1955  ls -rtfm
+ 1956  ls
+ 1957  ls -rtFM
+ 1958  ls -rtFm
+ 1959  cd Day00
+ 1960  cd ex02
+ 1961  cd exo02
+ 1962  ls
+ 1963  ./bonjour.sh
+ 1964  Day00
+ 1965  cd Day00
+ 1966  cd exo02
+ 1967  ls
+ 1968  nano bonjour.sh
+ 1969  bonjour.sh
+ 1970  ./ bonjour.sh
+ 1971  ./bonjour.sh
+ 1972  history > ex2.txt
+ 1973  nano bonjour.sh
+ 1974  ./bonjour.sh
+ 1975  cd Day00
+ 1976  cd
+ 1977  cd -
+ 1978  cd
+ 1979  cd Day00
+ 1980  git add .
+ 1981  git commit -m"exo2"
+ 1982  git push
+ 1983  cd..
+ 1984  cd ..
+ 1985  cd Day00
+ 1986  git clone https://github.com/Wassila211/Day00.git
+ 1987  git add .
+ 1988  git commit -m "correction"
+ 1989  git push
+ 1990  history > Day000
+ 1991  ls
+ 1992  * mkdir Day02
+ 1993  clear
+ 1994  cd
+ 1995  ls
+ 1996  git clone https://github.com/Wassila211/Day02.git
+ 1997  ls
+ 1998  cd Day02
+ 1999  ls
+ 2000  git pull
+ 2001  cd ex00
+ 2002  vim
+ 2003  vim hitmachine2000.py 
+ 2004  python3 hitmachine2000.py 
+ 2005  vim hitmachine2000.py 
+ 2006  python3 hitmachine2000.py 
+ 2007  .. cd
+ 2008  cd
+ 2009  cd Day02
+ 2010  cd ex01
+ 2011  vim ex01
+ 2012  python3 ex01
+ 2013  vim bonjourV2.py
+ 2014  python3 bonjourV2.py
+ 2015  ls
+ 2016  vim bonjour.py
+ 2017  python3 bonjour.py
+ 2018  cd ex02
+ 2019  cd
+ 2020  cd Day02
+ 2021  cd ex01
+ 2022  ls
+ 2023  cd
+ 2024  cd Day02
+ 2025  cd ex02
+ 2026  cd
+ 2027  cd Day00
+ 2028  cd
+ 2029  cd Day02
+ 2030  cd ex[B
+ 2031  cd ex02
+ 2032  vim bonjourV2.py
+ 2033  python3 bonjourV2.py
+ 2034  vim bonjourV2.py
+ 2035  python3 bonjourV2.py
+ 2036  history >> ex02
+ 2037  history >> ex02.txt
